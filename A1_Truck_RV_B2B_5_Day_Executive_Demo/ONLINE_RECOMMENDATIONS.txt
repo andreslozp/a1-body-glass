@@ -1,0 +1,33 @@
+A1 TRUCK & RV CENTER - WHAT SHOULD BE ONLINE VS. IN THE ZIP
+
+TODAY - FOR THE GENERAL MANAGER PRESENTATION
+- Use the ZIP as the complete private demo package.
+- Open START_HERE.html for the interactive walkthrough.
+- Use A1_B2B_5_Day_Executive_Presentation.pdf if the meeting is on a TV/projector or the recipient prefers a normal attachment.
+- Do not publish the private presentation package publicly.
+
+BEST ITEMS TO PUT ONLINE DURING THE 5-DAY SPRINT
+1. fleet.a1bodyandglass.com
+   This should become the live B2B fleet landing page as soon as A1 creates the DNS subdomain.
+
+2. LinkedIn Company Page - A1 Truck & RV Center
+   This should be live early because B2B prospects are likely to verify the company after email/phone outreach.
+
+3. Instagram + Facebook - A1 Truck & RV Center
+   These should be created as separate commercial profiles. They support credibility and visual proof; they are not the primary acquisition engine in the first five days.
+
+4. Private B2B Pipeline Dashboard
+   Best online with authentication so Carlos / management can see current account activity without receiving spreadsheets.
+
+5. Google Analytics / campaign tracking
+   Online and invisible to prospects. This is used to measure traffic, source and conversions.
+
+WHAT CAN REMAIN A DEMO UNTIL LATER
+- Google paid search ads: show the concept now; activate only when the landing/tracking/offer are ready.
+- YouTube: reserve the channel/name; content can be added after the five-day launch.
+- Full website redesign: not required for this launch.
+
+PRIORITY ORDER
+Landing + LinkedIn + outreach + dashboard first.
+Instagram/Facebook second.
+Paid advertising only after the B2B funnel is live and measurable.
